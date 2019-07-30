@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CaKerJo</string>
+    <string name="kampus_name">Nama Kampus</string>
+    <string name="from">Rating</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="description">deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="detail">Detail</string>
+
+    <string name="content_text">Universitas Gadjah Mada adalah salah satu universitas tertua di Indonesia yang ada sejak tahun 1949. UGM menjadi salah satu universitas terbaik di Yogyakarta dan juga di Indonesia.</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

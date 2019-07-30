@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975108026430",
+    "firebase_url": "https://cakerjo-429d0.firebaseio.com",
+    "project_id": "cakerjo-429d0",
+    "storage_bucket": "cakerjo-429d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975108026430:android:b14814ec97dba977",
+        "android_client_info": {
+          "package_name": "com.sahrilhasan10gmail.cakerjo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975108026430-dpatvcpsm88tvbuq6ca252on64uaei83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahrilhasan10gmail.cakerjo",
+            "certificate_hash": "b4c464b1e1f576a4db9d1be3b3cb91879aeb0a82"
+          }
+        },
+        {
+          "client_id": "975108026430-ev70o3fkukgfps85l7nla0jed4urc8m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-l0MkzRwQGfLjNUK785DUqBSinyYiZpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975108026430-ev70o3fkukgfps85l7nla0jed4urc8m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
